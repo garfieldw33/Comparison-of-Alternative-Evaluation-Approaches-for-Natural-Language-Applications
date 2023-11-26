@@ -31,4 +31,7 @@ f)	Original standard English texts vs. Standard English texts with synonyms repl
 * BERTScore
 * COMET
 
+## Experiment portal
+
+[Click](https://colab.research.google.com/drive/1u4d37k4CwRJfUWT24dLY4XUhH_NJIW-a?usp=sharing)
   
